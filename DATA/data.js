@@ -1,7 +1,7 @@
 var ARRAY = 
 [
     {
-        "ICON":"7_zip.svg",
+        "ICON":"7zip.svg",
         "NAME":"7-ZIP",
         "NOTE":"архиватор: ZIP, RAR, 7ZIP",
         "URL":"https://www.7-zip.org/",
