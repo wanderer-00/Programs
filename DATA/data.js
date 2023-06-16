@@ -109,10 +109,10 @@ var ARRAY =
         "URL":"https://www.qbittorrent.org/download",
     },
     {
-        "ICON":"",
-        "NAME":"",
-        "NOTE":"",
-        "URL":"#",
+        "ICON":"ShareX.svg",
+        "NAME":"ShareX",
+        "NOTE":"Удобный скриншотер",
+        "URL":"https://getsharex.com/downloads",
     },
     {
         "ICON":"",
