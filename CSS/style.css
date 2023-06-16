@@ -1,0 +1,84 @@
+:root {
+    --background: #FAFAFA;
+    --card-background: #FFFFFF;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+
+body {
+    font-family: sans-serif;
+    background-color: var(--background)
+}
+
+
+.cluster,
+.card,
+.icon,
+.name,
+.load
+{
+/*    border: 1px solid red*/
+}
+
+.CLUSTER
+{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}
+
+.CARD {
+    width: 200px;
+    padding: 10px;
+    margin: 6px;
+    max-height: 200px;
+    background-color: var(--card-background);
+    border: 1px solid #f0f0f0;
+    border-radius: 4px;
+    text-align: center
+}
+.CARD:hover {
+    box-shadow: 0 4px 12px rgba(0,0,0,.14);
+}
+
+.ICON {
+    height: 100px;
+    margin: auto;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center
+}
+
+.NAME {
+    text-align: center;
+    padding: 10px;
+}
+
+.LOAD {
+    --download: #63B94D;
+    
+    border: 1px solid var(--download);
+    border-radius: 15px;
+    color: var(--download);
+    
+    display: flex;
+    flex-shrink: 0;
+    flex-wrap: nowrap;
+    font-size: 14px;
+    justify-content: center;
+    line-height: 20px;
+    outline: none;
+    padding: 5px 20px;
+    text-decoration: none;
+    transition: background-color .3s ease;
+    width: 100%;
+}
+.LOAD:hover {
+    color: #fff;
+    background-color: var(--download);
+}
