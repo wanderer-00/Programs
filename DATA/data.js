@@ -91,6 +91,12 @@ var ARRAY =
         "URL":"https://discord.com/",
     },
     {
+        "ICON":"telegram.svg",
+        "NAME":"Telegram",
+        "NOTE":"Приватный мессенджер",
+        "URL":"https://desktop.telegram.org/",
+    },
+    {
         "ICON":"colormania.webp",
         "NAME":"Color Mania",
         "NOTE":"экранная пипетка, конвертор цветов",
