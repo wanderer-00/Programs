@@ -34,7 +34,7 @@ var ARRAY =
         "ICON":"google_picasa.png",
         "NAME":"Google Picasa",
         "NOTE":"легкая и быстрая галерея фото",
-        "URL":"https://picasa.google.com/",
+        "URL":"picasa.exe",
     },
     {
         "ICON":"aimp.svg",
@@ -119,6 +119,12 @@ var ARRAY =
         "NAME":"ShareX",
         "NOTE":"Удобный скриншотер",
         "URL":"https://getsharex.com/downloads",
+    },
+    {
+        "ICON":"msi_afterburner.svg",
+        "NAME":"MSI Afterburner",
+        "NOTE":"Управление кулерами видеокарты, мониторинг ресурсов",
+        "URL":"https://www.msi.com/Landing/afterburner/graphics-cards",
     },
     {
         "ICON":"",
