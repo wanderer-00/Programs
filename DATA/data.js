@@ -155,11 +155,11 @@ var ARRAY =
         "EXE":"MiniBin.7z",
     },
     {
-        "ICON":"",
-        "NAME":"",
-        "NOTE":"",
-        "URL":"#",
-        "EXE":"",
+        "ICON":"qttabbar.png",
+        "NAME":"QTTabBar",
+        "NOTE":"плагин создает вкладки в проводнике и осуществляет предпросмотр файлов",
+        "URL":"https://github.com/Texbio/qttabbar-win10-2023",
+        "EXE":"qttabbar.exe",
     },
     {
         "ICON":"",
