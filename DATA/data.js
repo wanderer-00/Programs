@@ -162,11 +162,11 @@ var ARRAY =
         "EXE":"qttabbar.exe",
     },
     {
-        "ICON":"",
-        "NAME":"",
-        "NOTE":"",
-        "URL":"#",
-        "EXE":"",
+        "ICON":"DDU.jpg",
+        "NAME":"DDU",
+        "NOTE":"удаление графических драйверов",
+        "URL":"https://www.wagnardsoft.com/",
+        "EXE":"DDU.exe",
     },
     {
         "ICON":"",
