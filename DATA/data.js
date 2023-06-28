@@ -151,8 +151,8 @@ var ARRAY =
         "ICON":"minibin.svg",
         "NAME":"MiniBin",
         "NOTE":"значек корзины, расположенный в трее, повторяющий функционал стандартной корзины windows",
-        "URL":"",
-        "EXE":"",
+        "URL":"#",
+        "EXE":"MiniBin.7z",
     },
     {
         "ICON":"",
