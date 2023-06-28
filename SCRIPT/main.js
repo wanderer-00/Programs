@@ -15,7 +15,8 @@ while (n < numberOBJ) {
                 <div class="NAME">${ARRAY[n].NAME}</div>
                 <div class="BUTTONS">
                     <a class="LOAD" download href="EXE/${ARRAY[n].EXE}">Скачать</a>
-                    <a class="URL" href="${ARRAY[n].URL}">↑</a>
+                    <a class="URL" href="${ARRAY[n].URL}"></a>
+                    <object type="image/svg+xml" width="30px" height="30px" data="IMG/ICON/open_in_new.svg" id="object" class="icon"></object>
                 </div>
             </div>
         `;
