@@ -13,7 +13,10 @@ while (n < numberOBJ) {
             <div class="CARD">
                 <div class="ICON" style="background-image: url(IMG/${ARRAY[n].ICON})"></div>
                 <div class="NAME">${ARRAY[n].NAME}</div>
-                <a class="LOAD" href="${ARRAY[n].URL}">Скачать</a>
+                <div class="BUTTONS">
+                    <a class="LOAD" download href="EXE/${ARRAY[n].EXE}">Скачать</a>
+                    <a class="URL" href="${ARRAY[n].URL}">↑</a>
+                </div>
             </div>
         `;
     };
