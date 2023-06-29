@@ -176,14 +176,14 @@ var ARRAY = [
     },
     {
         "ICON": "cpuz.svg",
-        "NAME": "CPU Z",
+        "NAME": "CPU-Z",
         "NOTE": "информация о CPU",
         "URL": "https://www.cpuid.com/softwares/cpu-z.html",
         "EXE": "cpuz",
     },
     {
         "ICON": "gpuz.png",
-        "NAME": "GPU Z",
+        "NAME": "GPU-Z",
         "NOTE": "информация о GPU",
         "URL": "https://techpowerup-gpu-z.com/",
         "EXE": "gpuz",
