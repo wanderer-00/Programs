@@ -197,11 +197,11 @@ var ARRAY =
         "EXE":"aida64.exe",
     },
     {
-        "ICON":"",
-        "NAME":"",
-        "NOTE":"",
-        "URL":"#",
-        "EXE":"",
+        "ICON":"processhacker.png",
+        "NAME":"processhacker",
+        "NOTE":"диспетчер задач с расширенным функционалом",
+        "URL":"https://processhacker.sourceforge.io/",
+        "EXE":"processhacker.exe",
     },
     {
         "ICON":"",
