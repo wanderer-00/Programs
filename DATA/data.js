@@ -169,6 +169,41 @@ var ARRAY =
         "EXE":"DDU.exe",
     },
     {
+        "ICON":"radmin_vpn.svg",
+        "NAME":"Radmin VPN",
+        "NOTE":"создание VPN туннеля",
+        "URL":"https://www.radmin-vpn.com/ru/",
+        "EXE":"radmin_vpn.exe",
+    },
+    {
+        "ICON":"cpuz.svg",
+        "NAME":"CPU Z",
+        "NOTE":"информация о CPU",
+        "URL":"https://www.cpuid.com/softwares/cpu-z.html",
+        "EXE":"cpuz.exe",
+    },
+    {
+        "ICON":"gpuz.png",
+        "NAME":"GPU Z",
+        "NOTE":"информация о GPU",
+        "URL":"https://techpowerup-gpu-z.com/",
+        "EXE":"gpuz.7z",
+    },
+    {
+        "ICON":"aida64.png",
+        "NAME":"AIDA64",
+        "NOTE":"информация о ПК",
+        "URL":"https://www.aida64.com/downloads",
+        "EXE":"aida64.exe",
+    },
+    {
+        "ICON":"",
+        "NAME":"",
+        "NOTE":"",
+        "URL":"#",
+        "EXE":"",
+    },
+    {
         "ICON":"",
         "NAME":"",
         "NOTE":"",
@@ -189,4 +224,5 @@ var ARRAY =
         "URL":"#",
         "EXE":"",
     },
+
 ]
