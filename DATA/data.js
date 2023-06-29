@@ -197,7 +197,7 @@ var ARRAY = [
     },
     {
         "ICON": "processhacker.png",
-        "NAME": "processhacker",
+        "NAME": "Process Hacker",
         "NOTE": "диспетчер задач с расширенным функционалом",
         "URL": "https://processhacker.sourceforge.io/",
         "EXE": "processhacker.exe",
