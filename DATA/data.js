@@ -75,7 +75,7 @@ var ARRAY =
         "NAME":"Github Desctop",
         "NOTE":"gitfub клиент версий на пк",
         "URL":"https://desktop.github.com/",
-        "EXE":"",
+        "EXE":"#",
     },
     {
         "ICON":"chrome.svg",
