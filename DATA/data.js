@@ -217,11 +217,11 @@ var ARRAY = [
         "EXE": "#",
     },
     {
-        "ICON": "",
-        "NAME": "",
-        "NOTE": "",
+        "ICON": "windows.svg",
+        "NAME": "Windows 10 LTSC",
+        "NOTE": "облегченная версия windows 10",
         "URL": "#",
-        "EXE": "",
+        "EXE": "#",
     },
     {
         "ICON": "",
