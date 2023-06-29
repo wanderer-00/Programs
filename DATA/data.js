@@ -96,7 +96,7 @@ var ARRAY =
         "NAME":"Opera GX",
         "NOTE":"стилизованный браузер под гейминг с контролем ресурсов",
         "URL":"https://www.opera.com/ru/gx",
-        "EXE":"opera.exe",
+        "EXE":"operagx.exe",
     },
     {
         "ICON":"discord.svg",
