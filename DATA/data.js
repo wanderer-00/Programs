@@ -224,10 +224,10 @@ var ARRAY = [
         "EXE": "#",
     },
     {
-        "ICON": "",
+        "ICON": "Avira_Phantom_VPN.png",
         "NAME": "Avira VPN",
         "NOTE": "VPN клиент",
-        "URL": "#",
+        "URL": "https://www.avira.com/ru/free-vpn",
         "EXE": "Avira_Phantom_VPN",
     },
     {
