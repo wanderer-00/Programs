@@ -21,6 +21,13 @@ var ARRAY = [
         "EXE": "wiztree",
     },
     {
+        "ICON": "CrystalDiskInfo.png",
+        "NAME": "CrystalDiskInfo",
+        "NOTE": "информация о состоянии работоспособности диска",
+        "URL": "https://crystalmark.info/en/download/#CrystalDiskInfo",
+        "EXE": "CrystalDiskInfo",
+    },
+    {
         "ICON": "everythink.png",
         "NAME": "Everythink",
         "NOTE": "легкий и быстрый плагин для поиска файла в системе",
@@ -229,13 +236,6 @@ var ARRAY = [
         "NOTE": "VPN клиент",
         "URL": "https://www.avira.com/ru/free-vpn",
         "EXE": "Avira_Phantom_VPN",
-    },
-    {
-        "ICON": "",
-        "NAME": "",
-        "NOTE": "",
-        "URL": "#",
-        "EXE": "",
     },
     {
         "ICON": "",
