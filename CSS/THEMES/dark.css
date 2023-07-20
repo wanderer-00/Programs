@@ -1,0 +1,15 @@
+:root {
+    --body-color: #FFF;
+    --body-background-color: #343434;
+    --a-color: #FFFF00;
+    --input-color: #FFF;
+    --input-border-color: #FFF;
+    --input-background-color: #444;
+    /* кнопочка в <input type="file"> */
+    --input-type-file-selection-button-color: #FFF;
+    --input-type-file-selection-button-border-color: #FFF;
+    --input-type-file-selection-button-background-color: #444;
+    --button-color: #FFF;
+    --button-border-colo: #FFF;
+    --button-background-color: #444;
+}

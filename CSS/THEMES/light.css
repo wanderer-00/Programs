@@ -1,0 +1,21 @@
+:root {
+    --body-color: #000;
+    --body-background-color: #FFF;
+    --a-color: #0000EE; /* chrome */
+    --input-color: #000;
+    --input-border-color: #000;
+    --input-background-color: #FFF;
+    /* кнопочка в <input type="file"> */
+    --input-type-file-selection-button-color: #000; /* chrome */
+    --input-type-file-selection-button-border-color: #767676; /* chrome */
+    --input-type-file-selection-button-background-color: #EFEFEF; /* chrome */
+    --button-color: ; /* chrome */
+    --button-border-colo: #767676; /* chrome */
+    --button-background-color: #EFEFEF; /* chrome */
+}
+
+/*
+
+/★ chrome ★/ напротив переменной обозначает, что в ней записано оригинальное значение для chrome (по аналогии с другими браузерами)
+
+*/
