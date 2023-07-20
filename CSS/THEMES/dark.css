@@ -1,7 +1,11 @@
 :root {
     --body-color: #FFF;
-    --body-background-color: #343434;
+    --body-background-color: #242424;
     --a-color: #FFFF00;
+    --card-background-color: #2E2E2E;
+    --card-background-color-hover: #323232;
+    --card-border-color: #3b3b3b;
+    --card-shadow-color: rgba(0,0,0,.14);
     --input-color: #FFF;
     --input-border-color: #FFF;
     --input-background-color: #444;

@@ -1,7 +1,11 @@
 :root {
     --body-color: #000;
     --body-background-color: #FFF;
-    --a-color: #0000EE; /* chrome */
+    --a-color: #0000EE;
+    --card-background-color: #FFF;
+    --card-background-color-hover: #FFF;
+    --card-border-color: #F0F0F0;
+    --card-shadow-color: rgba(0,0,0,.14);
     --input-color: #000;
     --input-border-color: #000;
     --input-background-color: #FFF;
