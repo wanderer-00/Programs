@@ -238,11 +238,11 @@ var ARRAY = [
         "EXE": "Avira_Phantom_VPN",
     },
     {
-        "ICON": "",
-        "NAME": "",
-        "NOTE": "",
-        "URL": "#",
-        "EXE": "",
+        "ICON": "obs.svg",
+        "NAME": "OBS",
+        "NOTE": "запись видео с экрана",
+        "URL": "https://obsproject.com/ru",
+        "EXE": "#",
     },
     {
         "ICON": "",

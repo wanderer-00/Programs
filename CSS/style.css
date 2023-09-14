@@ -50,7 +50,8 @@
 }
 
 .LOAD,
-.URL {
+.URL,
+.UNLOAD {
     text-decoration: none;
     --download: #63B94D;
     border: 1px solid var(--download);
@@ -66,13 +67,18 @@
     outline: none;
 }
 
-.LOAD {
+.LOAD,
+.UNLOAD {
     transition: background-color .3s ease;
     width: 74%;
 }
 .LOAD:hover {
     color: #fff;
     background-color: var(--download);
+}
+
+.UNLOAD {
+    border: 1px solid gray;
 }
 
 .URL {
