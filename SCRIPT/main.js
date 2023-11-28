@@ -10,15 +10,12 @@ var n = 0;
 while (n < numberOBJ) {
     if (ARRAY[n].NAME){ // не выводить пустые эл.
         CLUSTER.innerHTML += `
+        <a class="URL" href="${ARRAY[n].URL}" title="Перейти на официальный сайт">            
             <div class="CARD">
                 <div class="ICON" style="background-image: url(IMG/${ARRAY[n].ICON})"></div>
                 <div class="NAME">${ARRAY[n].NAME}</div>
-                <div class="BUTTONS">
-                    <a class="${onOff()}" download href="EXE/${ARRAY[n].EXE}.7z" title="Скачать с нашего сайта">Скачать</a>
-                    <a class="URL" href="${ARRAY[n].URL}" title="Перейти на официальный сайт">↑</a>
-                    <!--<object type="image/svg+xml" width="30px" height="30px" data="IMG/ICON/open_in_new.svg" id="object" class="icon"></object>-->
-                </div>
             </div>
+        </a>
         `;
     };
     n++;
@@ -26,12 +23,3 @@ while (n < numberOBJ) {
 
 
 console.log('Кол-во завершённых итераций:', n);
-
-
-function onOff(){
-    if(ARRAY[n].EXE != "#"){
-        return "LOAD"
-    } else {
-        return "UNLOAD"
-    }
-}
