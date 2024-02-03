@@ -147,7 +147,7 @@ var ARRAY = [
         "ICON": "DDU.jpg",
         "NAME": "DDU",
         "NOTE": "удаление графических драйверов",
-        "URL": "https://www.wagnardsoft.com/"
+        "URL": "https://www.wagnardsoft.com/DDU/download/DDU%20v18.0.7.0_setup.exe"
     },
     {
         "ICON": "radmin_vpn.svg",
