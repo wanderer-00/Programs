@@ -38,8 +38,8 @@ var ARRAY = [
     {
         "ICON": "google_picasa.png",
         "NAME": "Google Picasa",
-        "NOTE": "легкая и быстрая галерея фото",
-        "URL": "https://picasa.google.com/"
+        "NOTE": "легкая и быстрая галерея фото (https://picasa.google.com/)",
+        "URL": "https://howdyho.net/windows-software/google-picasa-luchshaya-v-mire-programma-dlya-prosmotra-kartinok"
     },
     {
         "ICON": "aimp.svg",
