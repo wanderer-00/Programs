@@ -135,7 +135,7 @@ var ARRAY = [
         "ICON": "minibin.svg",
         "NAME": "MiniBin",
         "NOTE": "значек корзины, расположенный в трее, повторяющий функционал стандартной корзины windows",
-        "URL": "#"
+        "URL": "https://github.com/king-tri-ton/minibin/releases/tag/v1.0.0"
     },
     {
         "ICON": "qttabbar.png",
